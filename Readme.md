@@ -6,6 +6,13 @@ The project also includes an interactive **Streamlit Web Application** for real-
 
 ---
 
+## 🚀 Live Demo
+
+🔗 Streamlit App:  
+https://moviereviewanalysisrnn-drwqc2eap7k8pngfmbt56v.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - Movie Review Sentiment Classification
@@ -107,7 +114,7 @@ http://localhost:8501
 2. Text gets tokenized and padded
 3. Review is passed through the trained RNN model
 4. Model predicts sentiment probability
-5. Final output is shown as Positive or Negative
+5. Final output is shown as Positive 😊 or Negative 😔
 
 ---
 
@@ -127,6 +134,21 @@ The project uses the IMDB Movie Reviews Dataset available in TensorFlow/Keras da
 - Add Attention Mechanism
 - Deploy on Streamlit Cloud
 - Use Pretrained Word Embeddings
+- Add Confidence Visualization
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+Feel free to fork the repository and submit pull requests.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
 
 ---
 
